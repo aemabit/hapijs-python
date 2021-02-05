@@ -13,7 +13,7 @@
 ### Usage
 
 * npm i
-* npm run dev ```Works in http://localhost:5500```
+* npm run dev works in ```http://localhost:5500```
 * send a ```post``` request to ```http://localhost:5500/pyprocess```
 * payload: ```tweet``` : ```Sandstorm is a masterpiece```
 * await response
